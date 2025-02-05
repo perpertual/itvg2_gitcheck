@@ -9,7 +9,7 @@ Commit endringen av filen.
 
 Send pull request slik at jeg kan commite navnet ditt til master.
 
-Ser du navnet dit under i min repository, har du klart det! WOOOO!
+Ser du navnet ditt under i min repository, har du klart det! WOOOO!
 
 Navn:
 
