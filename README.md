@@ -1,15 +1,17 @@
 # itvg2_gitcheck
 Repo for IT-VG2
 
-Lag en fork av dette repository.
+1. Lag en fork av dette repository.
 
-Legg til navnet ditt i listen under.
+2. Legg til navnet ditt i listen under (hvis dette repo'et er blitt oppdatert etter du lagde fork, må du huske å synce'e forken din før du endrer filen, hvis ikke må du manuelt løse konflikter ved merge)
 
-Commit endringen av filen.
+4. Commit endringen av filen.
 
-Send pull request slik at jeg kan commite navnet ditt til master.
+5. Send pull request slik at jeg kan commite navnet ditt til master.
+
 
 Ser du navnet ditt under i min repository, har du klart det! WOOOO!
+
 
 Navn:
 
