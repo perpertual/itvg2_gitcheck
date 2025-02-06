@@ -15,4 +15,4 @@ Navn:
 
 Hans Christian
 
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Jim' src='https://img.shields.io/badge/Jim-100000?style=for-the-badge&logo=Jim&logoColor=0879F1&labelColor=1871F5&color=F76B0D'/></a>
+<a href='https://github.com/JTT900' target="_blank"><img alt='Jim' src='https://img.shields.io/badge/Jim-100000?style=for-the-badge&logo=Jim&logoColor=0879F1&labelColor=1871F5&color=F76B0D'/></a>
